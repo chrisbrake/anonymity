@@ -11,6 +11,9 @@
 # production
 /build
 
+# dev environment
+.vagrant/
+
 # misc
 .DS_Store
 .env.local
